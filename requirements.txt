@@ -1,0 +1,24 @@
+-i https://pypi.org/simple
+alabaster==0.7.12
+babel==2.6.0
+certifi==2018.8.24
+chardet==3.0.4
+commonmark==0.5.4
+docutils==0.14
+idna==2.7
+imagesize==1.1.0
+jinja2==2.10
+markdown==2.6.11
+markupsafe==1.0
+packaging==18.0
+pygments==2.2.0
+pyparsing==2.2.2
+pytz==2018.5
+recommonmark==0.4.0
+requests==2.19.1
+six==1.11.0
+snowballstemmer==1.2.1
+sphinx-markdown-tables==0.0.9
+sphinx==1.8.1
+sphinxcontrib-websupport==1.1.0
+urllib3==1.23
